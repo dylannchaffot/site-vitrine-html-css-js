@@ -4,7 +4,7 @@ Mini site vitrine multi-pages réalisé dans le cadre de ma reconversion vers le
 
 ## 🔗 Démo en ligne
 
-👉 [Voir le site en ligne](#) *(lien à ajouter une fois déployé sur GitHub Pages)*
+👉 [Voir le site en ligne](https://dylann26.github.io/site-vitrine-html-css-js/)
 
 ## 📄 Pages du site
 
